@@ -14,10 +14,11 @@ y saber cálculos mensuales o anuales.
 
 Sintesis: https://goo.gl/ZL51GE
 
-Presentacion: 
+Presentacion: https://goo.gl/8hBpbE
 
 Manual de Tecnico: https://goo.gl/0ZzvZE
 
 Manuel Usuario: https://goo.gl/hGbAvT
 
+Video: https://goo.gl/UtzZiF
 
