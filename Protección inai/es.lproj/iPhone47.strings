@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Loaded by SecondViewController"; ObjectID = "0Su-1v-fTS"; */
+"0Su-1v-fTS.text" = "Loaded by SecondViewController";
+
+/* Class = "UILabel"; text = "Loaded by FirstViewController"; ObjectID = "O2y-1h-Kg1"; */
+"O2y-1h-Kg1.text" = "Loaded by FirstViewController";
+
+/* Class = "UILabel"; text = "Second View"; ObjectID = "Rm9-3J-pQM"; */
+"Rm9-3J-pQM.text" = "Second View";
+
+/* Class = "UITabBarItem"; title = "First"; ObjectID = "hss-Pd-8hB"; */
+"hss-Pd-8hB.title" = "First";
+
+/* Class = "UILabel"; text = "First View"; ObjectID = "keK-lW-TAQ"; */
+"keK-lW-TAQ.text" = "First View";
+
+/* Class = "UITabBarItem"; title = "Second"; ObjectID = "tvn-gY-hPV"; */
+"tvn-gY-hPV.title" = "Second";
