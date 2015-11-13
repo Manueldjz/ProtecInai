@@ -9,3 +9,15 @@ desee guardar el cálculo de una valoración, la cual pasará a la sección de R
 de manera local, solo se podrá ingresar con la contraseña o huella digital (depende del dispositivo) 
 que se definirá antes del empezar el app, esto con la finalidad de que el usuario pueda hacer comparativas 
 y saber cálculos mensuales o anuales.
+
+# Recursos
+
+Sintesis: https://goo.gl/ZL51GE
+
+Presentacion: 
+
+Manual de Tecnico: https://goo.gl/0ZzvZE
+
+Manuel Usuario: https://goo.gl/hGbAvT
+
+
