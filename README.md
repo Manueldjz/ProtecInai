@@ -22,11 +22,9 @@ y saber cálculos mensuales o anuales.
 
 [Repo Android](https://github.com/MonsterV/Inai-App-Android)
 
-[Manual de Tecnico](https://goo.gl/0ZzvZE)
+[Manual Tecnico](https://goo.gl/0ZzvZE)
 
-[Manuel Usuario](https://goo.gl/hGbAvT)
+[Manual de Usuario](https://goo.gl/hGbAvT)
 
 [Video](https://goo.gl/UtzZiF)
-
-[Repo Android](https://github.com/MonsterV/Inai-App-Android)
 
