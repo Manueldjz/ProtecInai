@@ -1,3 +1,6 @@
+![Alt text](http://i65.tinypic.com/5yx72h.png) 
+
+
 # ProtecInai
 Protección inai es una aplicación que permite al usuario ponderar el riesgo de proporcionar datos personales a partir de una estimación económica tomando en cuenta la fórmula otorgada por el inai en el anexo 1 de manera dinámica e interactiva
 
@@ -11,6 +14,8 @@ que se definirá antes del empezar el app, esto con la finalidad de que el usuar
 y saber cálculos mensuales o anuales.
 
 # Recursos
+
+
 
 Sintesis: https://goo.gl/ZL51GE
 
