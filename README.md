@@ -13,10 +13,6 @@ que se definirá antes del empezar el app, esto con la finalidad de que el usuar
 y saber cálculos mensuales o anuales.
 
 
-![Alt text](http://www.gfycat.com/WeepyNearBrahmancow)
-![Alt text](http://www.gfycat.com/ThoroughMajorChipmunk)
-
-
 # Recursos
 
 
@@ -35,7 +31,7 @@ y saber cálculos mensuales o anuales.
 
 # Instalacción
 
-iOS Version:
+**iOS Version:**
 
 Los equipos deben contar con el programa Xcode 6.4, Xcode 7 o superior
 
@@ -45,7 +41,7 @@ Los equipos deben contar con el programa Xcode 6.4, Xcode 7 o superior
 por apple ( https://developer.apple.com/programs/ )
 -Para probar en el simulador basta con darle Run sobre la interfaz de Xcode
 
-Android Version:
+**Android Version:**
 
 Equipos con Microsoft® Windows® 8.1/8/7  /  Mac OS X  /  Linux GNU C Library (glibc) 2.15 o superior.
 
@@ -62,6 +58,7 @@ cualquier duda, no dude en enviar un correo a Hola@stick.mx
 # Contacto
 
 Manuel@stick.mx
+
 Stick.mx
 
 
