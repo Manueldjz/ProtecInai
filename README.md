@@ -31,6 +31,7 @@ y saber cálculos mensuales o anuales.
 
 # Instalacción
 
+
 **iOS Version:**
 
 Los equipos deben contar con el programa Xcode 6.4, Xcode 7 o superior
@@ -49,7 +50,7 @@ Equipos con Microsoft® Windows® 8.1/8/7  /  Mac OS X  /  Linux GNU C Library (
 -Descargar dema para dispositivo fisico:[Link](https://www.dropbox.com/s/0b95t6scgc0a199/app-release.apk.zip?dl=0)
 
 
-# Politica de Privacidas
+# Politica de Privacidad
 
 La aplicacion se encuentra en fase de prototipo, al ser lanzada este apartado sera actualizado.
 Cualquier duda, no dude en enviar un correo a Hola@stick.mx
@@ -58,7 +59,8 @@ Cualquier duda, no dude en enviar un correo a Hola@stick.mx
 # Contacto
 
 Manuel@stick.mx
-Stick.mx
+
+Web: Stick.mx
 
 
 # Licencia 
