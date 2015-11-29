@@ -16,17 +16,17 @@ y saber cálculos mensuales o anuales.
 # Recursos
 
 
-[Sintesis](https://goo.gl/ZL51GE)
+[-Sintesis](https://goo.gl/ZL51GE)
 
-[Presentacion](https://goo.gl/8hBpbE)
+[-Presentación](https://goo.gl/8hBpbE)
 
-[Repo Android](https://github.com/MonsterV/Inai-App-Android)
+[-Repo Android](https://github.com/MonsterV/Inai-App-Android)
 
-[Manual Técnico](https://goo.gl/0ZzvZE)
+[-Manual Técnico](https://goo.gl/0ZzvZE)
 
-[Manual de Usuario](https://goo.gl/hGbAvT)
+[-Manual de Usuario](https://goo.gl/hGbAvT)
 
-[Video](https://goo.gl/UtzZiF)
+[-Video](https://goo.gl/UtzZiF)
 
 
 # Instalacción
