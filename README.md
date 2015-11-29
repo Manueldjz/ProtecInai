@@ -51,14 +51,13 @@ Equipos con Microsoft® Windows® 8.1/8/7  /  Mac OS X  /  Linux GNU C Library (
 
 # Politica de Privacidas
 
-La aplicacion se encuentra en fase de prototipo, al ser lanzada este apartado sera actualizando
-cualquier duda, no dude en enviar un correo a Hola@stick.mx
+La aplicacion se encuentra en fase de prototipo, al ser lanzada este apartado sera actualizado.
+Cualquier duda, no dude en enviar un correo a Hola@stick.mx
 
 
 # Contacto
 
 Manuel@stick.mx
-
 Stick.mx
 
 
