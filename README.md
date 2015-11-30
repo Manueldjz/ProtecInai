@@ -30,7 +30,7 @@ Proteccion inai es un aplicación completamente programada en su lenguaje nativo
 
 -Flat design (iOS app)
 
--Materia design (Android app)
+-Material design (Android app)
 
 
 [-Propuesta Grafica](https://drive.google.com/folderview?id=0B8CwadqbzajFNkdJRmN3NlhQVDg&usp=sharing)
@@ -52,7 +52,7 @@ Proteccion inai es un aplicación completamente programada en su lenguaje nativo
 [-Video](https://goo.gl/UtzZiF)
 
 
-# Instalacción.
+# Instalación.
 
 
 **iOS Version:**
