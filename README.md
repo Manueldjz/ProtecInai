@@ -4,6 +4,7 @@
 
 
 # Descripcion
+
 Protección inai es una aplicación que permite al usuario ponderar el riesgo de proporcionar datos personales a partir de una estimación económica tomando en cuenta la fórmula otorgada por el inai en el anexo 1 de manera dinámica e interactiva
 
 La aplicación hará la consulta del valor de los datos, basado en la elección de una lista dividida en 
@@ -14,6 +15,11 @@ desee guardar el cálculo de una valoración, la cual pasará a la sección de R
 de manera local, solo se podrá ingresar con la contraseña o huella digital (depende del dispositivo) 
 que se definirá antes del empezar el app, esto con la finalidad de que el usuario pueda hacer comparativas 
 y saber cálculos mensuales o anuales.
+
+
+# Aplicación nativa iOS & Android
+
+![Alt text](http://i63.tinypic.com/xb9xe0.png)  ![Alt text](http://i65.tinypic.com/ery0bl.png)
 
 
 # Recursos
