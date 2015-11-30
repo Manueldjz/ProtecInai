@@ -19,7 +19,7 @@ y saber cálculos mensuales o anuales.
 
 # Aplicación nativa iOS & Android
 
-![Alt text](http://i63.tinypic.com/xb9xe0.png) ///////  ![Alt text](http://i68.tinypic.com/30u8w7n.png)
+![Alt text](http://i63.tinypic.com/xb9xe0.png) ![Alt text](http://i68.tinypic.com/30u8w7n.png)
 **Misma identidad diferente diseño de interfaz**
 
 
