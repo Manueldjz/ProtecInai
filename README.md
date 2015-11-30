@@ -1,9 +1,6 @@
-![Alt text](http://i65.tinypic.com/6s484x.png)
+![Alt text](http://i67.tinypic.com/2vnqhxz.png)
 
 ![Alt text](http://i65.tinypic.com/5odnk4.png)
-
-![Alt text](http://i65.tinypic.com/6s484x.png)
-
 
 
 
