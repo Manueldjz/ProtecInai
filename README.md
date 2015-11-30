@@ -25,8 +25,13 @@ y saber cálculos mensuales o anuales.
 **Misma identidad diferente diseño de interfaz**
 
 -Diseño de interfaz original UI/UX
+
 -Flat design (iOS app)
+
 -Materia design (Android app)
+
+
+[-Propuesta Grafica](https://drive.google.com/folderview?id=0B8CwadqbzajFNkdJRmN3NlhQVDg&usp=sharing)
 
 
 # Recursos
