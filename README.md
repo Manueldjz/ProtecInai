@@ -1,4 +1,4 @@
-# Protección inai, Reto valora tus datos personles.
+# Protección inai, Reto valora tus datos personales.
 
 ![Alt text](http://i67.tinypic.com/2vnqhxz.png)   ![Alt text](http://i63.tinypic.com/11japw9.png)    ![Alt text](http://i65.tinypic.com/21eyr7n.png)
 
