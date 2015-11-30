@@ -1,13 +1,13 @@
-# Protección inai app, Reto valora tus datos personles
+# Protección inai, Reto valora tus datos personles
 
-![Alt text](http://i67.tinypic.com/2vnqhxz.png) ![Alt text](http://i63.tinypic.com/11japw9.png)  ![Alt text](http://i65.tinypic.com/21eyr7n.png) ![Alt text](http://i63.tinypic.com/2m6u8n9.png)
+![Alt text](http://i67.tinypic.com/2vnqhxz.png) ![Alt text](http://i63.tinypic.com/11japw9.png)  ![Alt text](http://i65.tinypic.com/21eyr7n.png)
 
 ![Alt text](http://i65.tinypic.com/5odnk4.png)
 
 
 
 
-# ProtecInai
+# Descripcion
 Protección inai es una aplicación que permite al usuario ponderar el riesgo de proporcionar datos personales a partir de una estimación económica tomando en cuenta la fórmula otorgada por el inai en el anexo 1 de manera dinámica e interactiva
 
 La aplicación hará la consulta del valor de los datos, basado en la elección de una lista dividida en 
