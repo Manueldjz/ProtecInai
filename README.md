@@ -58,16 +58,21 @@ y saber cálculos mensuales o anuales.
 Los equipos deben contar con el programa Xcode 6.4, Xcode 7 o superior
 
 -Descargar o clonar el proyecto 
+
 -Abrir el .xcodeproj
+
 -Para poder probar sobre dispositivos fisicos es necesario contar con una licencia de desarrollador proporcionada
-por apple ( https://developer.apple.com/programs/ )
+por apple (https://developer.apple.com/programs/)
+
 -Para probar en el simulador basta con darle Run sobre la interfaz de Xcode
+
 
 **Android Version:**
 
 Equipos con Microsoft® Windows® 8.1/8/7  /  Mac OS X  /  Linux GNU C Library (glibc) 2.15 o superior.
 
 -Visitar [Repo Android](https://github.com/MonsterV/Inai-App-Android)
+
 -Descargar APK para dispositivo fisico:[Link](https://www.dropbox.com/s/0b95t6scgc0a199/app-release.apk.zip?dl=0)
 
 
