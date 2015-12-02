@@ -75,7 +75,7 @@ Equipos con Microsoft® Windows® 8.1/8/7  /  Mac OS X  /  Linux GNU C Library (
 
 -Visitar [Repo Android](https://github.com/MonsterV/Inai-App-Android)
 
--Descargar APK para dispositivo fisico:[Link](https://www.dropbox.com/s/0b95t6scgc0a199/app-release.apk.zip?dl=0)
+-Descargar APK para dispositivo fisico:[Link](https://www.dropbox.com/s/v85kvvcfr8lbirp/app-release.apk?dl=0)
 
 
 # Politica de Privacidad
