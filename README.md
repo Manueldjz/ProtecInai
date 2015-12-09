@@ -43,7 +43,7 @@ Proteccion inai es un aplicación completamente programada en su lenguaje nativo
 
 [-Presentación](https://goo.gl/8hBpbE)
 
-[-Repo Android](https://github.com/MonsterV/Inai-App-Android)
+[-Repo Android](https://github.com/MonsterV/Inai-Stick)
 
 [-Manual Técnico](https://goo.gl/0ZzvZE)
 
