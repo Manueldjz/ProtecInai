@@ -17,9 +17,9 @@ que se definirá antes del empezar el app, esto con la finalidad de que el usuar
 y saber cálculos mensuales o anuales.
 
 Una aplicación nativa es 200% mas rapida que una aplicacion basada en web (HTML & CSS), Y 150% menos pesada.
-Proteccion inai es un aplicación completamente programada en su lenguaje nativo para cada plataforma movil
+Proteccion inai es un aplicación completamente programada en su lenguaje nativo para cada plataforma movil.
 
-# Aplicación nativa iOS & Android
+# Aplicación nativa iOS & Android.
 
 ![Alt text](http://i63.tinypic.com/xb9xe0.png) ![Alt text](http://i68.tinypic.com/30u8w7n.png)
 
@@ -78,7 +78,7 @@ Equipos con Microsoft® Windows® 8.1/8/7  /  Mac OS X  /  Linux GNU C Library (
 -Descargar APK para dispositivo fisico:[Link](https://www.dropbox.com/s/v85kvvcfr8lbirp/app-release.apk?dl=0)
 
 
-# Politica de Privacidad
+# Politica de Privacidad.
 
 La aplicacion se encuentra en fase de prototipo, al ser lanzada este apartado sera actualizado.
 Cualquier duda, no dude en enviar un correo a Hola@stick.mx .
